@@ -38,6 +38,3 @@ Never commit your actual API key or .env file.
 
 ## Author
 Nidhi Diwase
-Never commit your actual API key or .env file.
-
-## Author
